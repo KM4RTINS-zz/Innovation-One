@@ -10,7 +10,7 @@
 </P>
 
 <p align = "center">
-    <img src="./_img/marvel1.gif" alt="Marvel Studio" width = "1366px">
+    <img src="./_img/marvel1.gif" alt="Marvel Studio" width = "650px">
 </p>
 
 <h2 align = "center">Criado usando as tecnologias</h2>
